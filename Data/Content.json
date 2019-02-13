@@ -1,10 +1,6 @@
 {
-    "applicationName": null,
-    "applicationPlattform": null,
-    "nameOfUpdate": "",
-    "description": "",
-    "currentVersion": "",
-    "updatedVersion": "",
-    "website_url": "https://mrrobin12.github.io/website/",
-    "content_url": ""
+    "nameOfUpdate": "Further Adventures in Finance and Felony",
+    "description": "This update gives players the ability to become the CEO of a criminal organization and hire Associates to buy and sell cargo through the Special Cargo Network. Office and Warehouse properties can now be purchased and utilized for Buy/Sell missions and CEO Work. Many new vehicles have been added, including new supercars and luxury vehicles. Drum magazines are now available for eight weapons in Ammu-Nation. Two new Adversary Modes, Trading Places and Power Play, are also available.",
+    "content_url": "https://www.google.se",
+    "version": "0.0.3",
 }
