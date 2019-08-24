@@ -1,0 +1,14 @@
+{
+  "VehicleClass": {
+    "Land": {
+      "Cars": [
+        {
+          "rawObject": "https://github.com/MrRobin12/DriftAlong/blob/master/nissan%20silvia%20s15_a5eaf8d6f5b6711a6d709bcb8170feab?raw=true",
+          "dataObject": "null"
+        }
+      ]
+    },
+    "Water": {},
+    "Air": {}
+  }
+}
